@@ -5,3 +5,7 @@ const claseA = (foo, bar) => {
 const claseC = () => {
   console.log("Clase C")
 }
+
+const claseB = () => {
+  console.log("Clase B")
+}
