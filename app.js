@@ -1,5 +1,5 @@
-const claseA = (foo, bar) => {
-  console.log(`${foo} ${bar}`)
+const claseA = (foo, bar, lorem) => {
+  console.log(`${foo} ${bar} and ${lorem}`)
 }
 
 const claseC = () => {
